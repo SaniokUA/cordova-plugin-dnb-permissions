@@ -1,0 +1,11 @@
+{
+  "name": "cordova-plugin-dnb-permissions",
+  "version": "1.0.0",
+  "description": "Сheck Do Not Disturb permissions from Cordova to MainActivity.java",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Dz",
+  "license": "Apache License 2.0"
+}
